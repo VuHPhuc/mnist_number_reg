@@ -1,6 +1,3 @@
 # mnist_number_reg
-there a 2 part 1 is for handwriting 2 for training file (idk how to describe it :D) like you put a number and it will gen a number picture something like that lol
-the 1 one pretty much from some one code ofc cause i'm not good in this kind of stuff (I only did this project for a lesson in college so it won't be as good as you would expect)
-the data file well you have to download it cause it to big for this repos you could download it below here (it only use for 2 one so if you don't need it then you don't have to download it)
-https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
-(for the number i forgot where i download it so yeah sorry about that you have to work yourself)
++ "mnist_number_reg" is a project that comprises two parts. The first part focuses on handwriting, while the second part allows users to input a number (random number base on csv file size) and the system generates a corresponding number image while predicting the number. I acquired the handwriting section from someone else's code as I am not proficient in this domain. It is important to note that this project was completed for a college assignment, so its quality may not meet your expectations
++ The data file for this project is too large to be included in this repository, so you need to download it separately. You can download it from the following link: [https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format]. Please note that there is also a separate number file, but I can't recall where I downloaded it from. You may need to search for it on your own
